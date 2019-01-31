@@ -11,3 +11,7 @@ Homebrew tap for [Kong] :beer:
 $ brew tap leandrocp/kong
 $ brew install kong
 ```
+
+### Ref
+
+https://github.com/Kong/homebrew-kong/tree/263bf83b5986f462d02c2006f129f11b65d998e8
